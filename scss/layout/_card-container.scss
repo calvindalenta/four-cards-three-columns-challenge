@@ -13,5 +13,8 @@
 .second-col {
     display: flex;
     flex-direction: column;
-    /* gap: 10%; */
+
+    .card {
+        margin-block: 0.5rem;
+    }
 }
