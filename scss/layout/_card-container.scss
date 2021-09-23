@@ -2,7 +2,18 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 3%;
-    border: 3px solid blue;
+    margin-top: 3rem;
+
+    // border: 3px solid blue;
+
+    @include smaller-than-tablet {
+        display: block;
+        .first-col, .second-col, .third-col {
+            .card {
+                margin-bottom: 2rem;
+            }
+        }
+    }
 }
 
 .first-col, .third-col {
@@ -16,5 +27,9 @@
 
     .card {
         margin-block: 0.5rem;
+
+        @include smaller-than-tablet {
+            // margin: 0;
+        }
     }
 }

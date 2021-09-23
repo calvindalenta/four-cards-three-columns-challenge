@@ -1,5 +1,10 @@
 .container {
     width: 80%;
     margin: auto;
-    border: 2px solid red;
+    // border: 2px solid red;
+
+    @include smaller-than-tablet {
+        width: 90%;
+        margin-top: 3rem;
+    }
 }
