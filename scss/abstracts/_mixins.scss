@@ -1,7 +1,7 @@
 $tablet-width: 768px;
 
 @mixin smaller-than-tablet {
-  @media screen and (min-width: #{$tablet-width}){
+  @media screen and (max-width: #{$tablet-width}){
     @content;
   }
 }
