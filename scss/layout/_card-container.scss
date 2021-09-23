@@ -1,0 +1,17 @@
+.card-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 3%;
+    border: 3px solid blue;
+}
+
+.first-col, .third-col {
+    display: flex;
+    align-items: center;
+}
+
+.second-col {
+    display: flex;
+    flex-direction: column;
+    /* gap: 10%; */
+}
