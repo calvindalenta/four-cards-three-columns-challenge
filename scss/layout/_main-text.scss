@@ -1,3 +1,26 @@
 .main-text {
     text-align: center;
+
+    width: 50%;
+    margin: auto;
+    // border: 2px solid black;
+
+
+    h1 {
+        &:first-child {
+            font-weight: 400;
+            color: $very-dark-blue;
+        }
+
+        &:last-child {
+            color: $grayish-blue;
+        }
+    }
+
+    p {
+        font-weight: 400;
+        color: $grayish-blue;
+
+        margin-block: 1rem;
+    }
 }
