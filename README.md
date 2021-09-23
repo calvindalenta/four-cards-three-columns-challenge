@@ -2,9 +2,12 @@
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+### [View the page here](https://calvindalenta.github.io/four-cards-three-columns-challenge/)
+
 ## Table of contents
 
 - [Frontend Mentor - Four card feature section solution](#frontend-mentor---four-card-feature-section-solution)
+    - [View the page here](#view-the-page-here)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
