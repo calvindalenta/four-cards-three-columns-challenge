@@ -24,8 +24,9 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
+<img src="https://raw.githubusercontent.com/calvindalenta/four-cards-three-columns-challenge/master/screenshots/desktop.png" width="50%" />
+<img src="https://raw.githubusercontent.com/calvindalenta/four-cards-three-columns-challenge/master/screenshots/mobile.png" width="10%" />
 
-![](./screenshot.jpg)
 
 ## My process
 
