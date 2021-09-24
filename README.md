@@ -3,11 +3,13 @@
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ### [View the page here](https://calvindalenta.github.io/four-cards-three-columns-challenge/)
+#### [The page is mobile-friendly](https://search.google.com/test/mobile-friendly?id=5MVcV_M_eGXhdbKMAY_mqA)
 
 ## Table of contents
 
 - [Frontend Mentor - Four card feature section solution](#frontend-mentor---four-card-feature-section-solution)
     - [View the page here](#view-the-page-here)
+      - [The page is mobile-friendly](#the-page-is-mobile-friendly)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
